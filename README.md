@@ -1,2 +1,2 @@
-# virtual
-Decompilation of The Simpsons: Virtual Springfield for PC.
+# The Simpsons: Virtual Springfield Decompilation
+A Decompilation of The Simpsons: Virtual Springfield for PC. The goal is to provide a workable codebase that can be modified, improved, and ported to other platforms later on. We also want to provide full compatibility with modern systems as there is a few issues when running the game on modern Windows systems.
